@@ -34,7 +34,7 @@ pom.xml: Maven项目配置文件
 start.bat: 项目启动脚本
 init_db.bat: 数据库初始化脚本
 
-#注意事项：
+*注意事项：
 1、首次运行前必须执行数据库初始化脚本
 2、确保MySQL服务已启动
 3、确保Tomcat安装路径并启动成功，如需修改请编辑 start.bat 中的 CATALINA_HOME 变量
