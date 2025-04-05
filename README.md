@@ -1,7 +1,7 @@
 # Member-Management-System
 会员管理系统使用说明
 
-(一）系统要求
+（一）系统要求
 Java 19 或更高版本
 MySQL 数据库
 Tomcat 10.1.19 或更高版本
